@@ -12,6 +12,11 @@ Basically the classic pong game coded with raylib (c++)
 -Basic The Pong Game features.
 -Play with another player/AI.
 
+1.1.0
+
+-Smarter AI
+-Bugs fixed
+
 ## How to play
 - Select a gamemode to choose whether play with bot or another player (1Player/2Player) 
 - Press W/S to move the left side paddle
